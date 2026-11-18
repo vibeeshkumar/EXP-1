@@ -77,16 +77,17 @@ a.   KVL:
 
 
 b.  KCL:
-Experiment2:Verification of Kirchhoff's Current Law(KCL)
+#Experiment2:Verification of Kirchhoff's Current Law(KCL)
 
-Observation Table
+##Observation Table
 
 Supply Voltage:100v
-S.No|Component|Resistance(Ohm)|Voltage(V)|Current(A)
-1|R1| 30| 30|
-2|R2| 50| 50|
-3|R3| 20| 20|
-4|Supply| -| 100|
+
+| S.No. | Component | Resistance(Ohm) | Voltage(V) | Current(A) |
+|1|R1| 30| 30| 1.00|
+|2|R2| 50| 50| 1.00|
+|3|R3| 20| 20| 1.00|
+|4|Supply| - | 100| 1.00|
 
 
 
