@@ -77,9 +77,18 @@ a.   KVL:
 
 
 b.  KCL:
-<img width="572" height="241" alt="image" src="https://github.com/user-attachments/assets/2c92c093-f102-4fdc-8326-e8bd0ab04163" />
+Experiment2:Verification of Kirchhoff's Current Law(KCL)
 
-<img width="757" height="377" alt="image" src="https://github.com/user-attachments/assets/645db4d7-55a5-467e-98e9-79ea2dece0bb" />
+Observation Table
+
+Supply Voltage:100v
+S.No|Component|Resistance(Ohm)|Voltage(V)|Current(A)
+1|R1| 30| 30|
+2|R2| 50| 50|
+3|R3| 20| 20|
+4|Supply| -| 100|
+
+
 
 
 
